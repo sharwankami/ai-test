@@ -1,0 +1,86 @@
+Question: How do I change the language in Habio?
+Answer: Press the menu item Account and then Language. Select the language you want to apply.
+
+Question: How do I add more users to operate my account?
+Answer: We are working to support family sharing, then the owner of the electricity meter will be able to invite external users to collaborate on managing the home.
+
+Question: How can I manage several locations, for example my cabin?
+Answer: To control several locations, you must have several electricity meters registered to you. You can then change which address you manage by clicking on your address on the home screen.
+
+Question: Is <APP NAME> also an app?
+Answer: Yes, download from App Store here and Google Play here.
+
+Question: How can I see the spot price for the next day?
+Answer: Click on Today's spot price from the front page and further on +1D below the graph. The next day's spot prices are shown here as soon as we have received them from Nord Pool, sometime after 13.
+
+Question: Where can I see how much electricity I have used in NOK?
+Answer: Click on Electricity #current month# from the front page. Your consumption is shown in the boxes above the chart in kWh and kroner. Below the chart, you can filter on whether you want to see the consumption summed up per day, week, month or year.
+
+Question: How can I find details about my power agreement?
+Answer: Details about your power agreement, such as surcharges and any fixed amounts, can be found under the menu “Account” > “Power agreement”.
+
+Question: What price is shown at “Today's spot price”?
+Answer: “Today's spot price” show the spot price from Nord Pool + the surcharge from your power agreement so that you always get to see your specific price and know what you are paying for the electricity.
+
+Question: What does “power peaks” mean?
+Answer: Power peaks mean how much power is used at the same time.  Your grid rent is based on an average of your highest power peaks. How many peaks the average is based on varies from grid operator to grid operator.
+
+Question: What is grid rent?
+Answer: Grid rent is the price it costs to transport electricity to your home. In addition to the transport of the electricity, the grid rent covers costs incurred by the grid owner for maintenance of the grid, operation, emergency response and the development of a new and better grid.  About half of the network rent consists of government fees that are not controlled by the grid operator.
+
+Question: How much will I receive in power compensation?
+Answer: How much you will receive in power compensation all depends on what the average spot price is throughout a calendar month. This is the basis for calculating the electricity subsidy.  The support rate is 80% of the difference between 70 øre/kWh excluding VAT. and the monthly average price at Nord Pool. For September up to and including December 2022, the support rate is increased to 90%.
+
+Question: How can I add more services to <APP NAME>?
+Answer: To add services to <APP NAME> – tap the + icon in the right corner of the home screen or click here.
+
+Question: How do I add my solar panels to <APP NAME>?
+Answer: To add your solar panels to <APP NAME> - press the + icon in the right corner of the home screen or click here.
+
+Question: How can I add my electric car?
+Answer: To add services - press the + icon in the right corner of the home screen or click here and select electric car in the list.  There you can also see an updated list of which car models we support.
+
+Question: How to connect the electric car for smart charging?
+Answer: In order for us to be able to smart charge your electric car, you must first connect your car. Tap the + icon in the right corner of the home screen or click here. Follow the instructions and when the process is finished, click on your electric car from the front page and set up the parameters you want the car to charge by.
+
+Question: How do I remove my electric car from the app?
+Answer: If you want to disconnect your electric car (remove it from the app), select the menu in the top right corner (circle with three dots) and choose "Disconnect". If you have several electric cars from the same car brand added, all from the same vendor will be removed. The car(s) you want to keep in the service must then be added again.
+
+Question: Why should you smart charge?
+Answer: By charging your electric car smart, you will simply save money on your electricity bill. The algorithms behind smart charging move the charging session so that charging is done when the spot price is at its lowest.
+
+Question: Why is smart charging not working?
+Answer: There can be several reasons why smart charging does not work. Maybe the car doesn’t have support for it? Or maybe the system was unable to save enough by moving the charge plan? A fully charged car will always have priority over charging when the price is low. Click here to see if your car is 100% supported, or if it has limitations that mean we can’t smart charge it.
+
+Question: With which car models do you support smart charging?
+Answer: We support 100+ car models for smart charging. You can find an updated list with integration status here.
+
+Question: How can I see how much I have smart charged?
+Answer: Click on your car on the home screen. Click on "Charging insight" at the bottom of the electric car page. Here you will see the charging history with consumption, cost and savings.
+
+Question: Why don’t I see all the charging sessions?
+Answer: We only show charging sessions done on your registered home address.
+
+Question: Why is my charging session not registered as smart charging?
+Answer: You may have plugged in the car when the electricity was at its cheapest and then the charging session will not be registered as smart charging.
+
+Question: How does a charging box work?
+Answer: You can start and stop charging via the service. You can also adjust the amperage - how much electricity the charging box shall use to charge your car.
+
+Question: Can I smart charge with a charging box?
+Answer: You can not smart charge with a charging box. Soon you will be able to set schedules for when the charging box shall charge your car.
+
+Question: Can I schedule charging sessions with a charging box?
+Answer: Not at this time. We are working to support scheduling - to set times and intervals that the charging box should charge your electric car.
+
+Question: Can I adjust the current on the charging box?
+Answer: Yes, you can adjust the current that the charging box shall use to charge your car.
+
+Question: How do I find my invoices?
+Answer: You can find your invoices in the menu under "Account" > "Invoice".
+
+Question: How can I postpone an invoice?
+Answer: If an invoice is not due and has not been paid, you can postpone the due date on the invoice. Select "Account" > "Invoice" in the menu and find the relevant invoice.
+
+Question: Can I download an invoice?
+Answer: Yes, click on “Account” in the menu and find the relevant invoice under “Invoice”. Click the “View invoice” button and it will download as a PDF on your phone or open in a new tab.
